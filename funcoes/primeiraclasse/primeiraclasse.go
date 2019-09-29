@@ -19,5 +19,4 @@ func main() {
 
 	fmt.Printf("Soma = %d\n", soma(a, b))
 	fmt.Printf("Subtracao = %d\n", sub(a, b))
-
 }
