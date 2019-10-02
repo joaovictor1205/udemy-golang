@@ -10,7 +10,6 @@ func imprimirAprovados(aprovados ...string) {
 		fmt.Printf("%d) %s\n", i, aprovado)
 	}
 
-
 }
 
 func main(){
